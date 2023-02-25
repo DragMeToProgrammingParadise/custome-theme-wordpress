@@ -190,6 +190,11 @@ body {
     margin: 0px 30px;
 }
 
+.current_page_parent a, .current-menu-item a{
+  border-bottom: 1px red solid;
+  color: red;
+  padding: 10px;
+}
 
 /* external */
 
